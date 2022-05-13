@@ -16,6 +16,7 @@ li {
 
 .header-list li {
   float: left;
+  font color: #000000;
 }
 
 .twitter-timeline {
