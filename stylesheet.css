@@ -8,7 +8,9 @@ header{
 }
 
 footer-list li {
-  float: center ;
+  wudth: 600px ;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .twitter-timeline {
