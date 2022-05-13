@@ -5,6 +5,8 @@ li {
 .header-list li{
   float: left;
   color: #000;
+  text-align: center;
+  padding: 5px;
 }
 
 .footer-list li{
@@ -15,6 +17,7 @@ li {
 
 .header{
   padding: 20px;
+  margin: 30px;
   background-color: #C0C0C0;
   text-align: center;
   color: #000;
