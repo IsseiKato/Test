@@ -4,7 +4,8 @@ li {
 }
 
 .header-list li{
-  float: left; 
+  float: left;
+  display: inline;
 }
 
 .footer-list li{
