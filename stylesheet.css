@@ -26,6 +26,9 @@ li {
   color: #000;
 }
 
+.header-list{
+  height: 200px;
+}
 
 .twitter-timeline{
   padding: 200px;
