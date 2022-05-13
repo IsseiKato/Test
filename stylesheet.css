@@ -2,6 +2,12 @@ li {
   list-style: none;
 }
 
+
+.header-list li {
+  float: left;
+  font color: #000000;
+}
+
 .footer-list li {
   width: 600px ;
   margin-left: auto;
@@ -14,10 +20,6 @@ li {
   text-align: center;
 }
 
-.header-list li {
-  float: left;
-  font color: #000000;
-}
 
 .twitter-timeline {
   padding: 120px;
