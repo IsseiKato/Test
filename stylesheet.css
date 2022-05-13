@@ -5,6 +5,7 @@ li {
 
 .header-list li{
   float: left; 
+  display: inline;
 }
 
 .footer-list li{
