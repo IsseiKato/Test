@@ -1,3 +1,7 @@
+li{
+  list-style: none;
+}
+
 .twitter-timeline{
   padding: 120px;
 }
