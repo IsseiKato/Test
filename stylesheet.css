@@ -1,11 +1,11 @@
 li {
   list-style: none;
   font-color: #000000;
+  display: inline;
 }
 
 .header-list li{
   float: left; 
-  display: inline;
 }
 
 .footer-list li{
