@@ -13,6 +13,10 @@ li {
   background-color: #C0C0C0;
 }
 
+.header-list li {
+  float: left;
+}
+
 .twitter-timeline {
   padding: 120px;
 }
