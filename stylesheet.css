@@ -10,19 +10,19 @@ li {
 
 a{
   color: #FFF;
-  font-weight:normal;
+  font-weight:300;
   text-decoration: underline;
 }
 
 a:link, a:visited{
   color: #FFF;
-  font-weight:normal;
+  font-weight:300;
   text-decoration: underline;
 }
   
 a:hover, a:active{
   color: #FFFFCC;
-  font-weight:bold;
+  font-weight:400;
   text-decoration: none;
 }
 
