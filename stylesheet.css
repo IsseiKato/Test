@@ -12,9 +12,21 @@ a{
   color: #FFF;
 }
 
+a:link{
+  
+}
+
+a:visited{
+  
+}
+  
 a:hover{
   font-weight:bold;
   text-decoration: underline;
+}
+
+a:active{
+  
 }
 
 .footer-list li{
