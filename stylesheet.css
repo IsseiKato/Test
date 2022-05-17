@@ -10,29 +10,20 @@ li {
 
 a{
   color: #FFF;
+  font-weight:normal;
   text-decoration: underline;
 }
 
-a:link{
+a:link, a:visited{
   color: #FFF;
-  text-decoration: none;
-}
-
-a:visited{
-  color: #FFF;
-  text-decoration: none;
+  font-weight:normal;
+  text-decoration: underline;
 }
   
-a:hover{
+a:hover, a:active{
   color: #FFFFCC;
   font-weight:bold;
-  text-decoration: underline;
-}
-
-a:active{
-  color: #FFFFCC;
-  font-weight:bold;
-  text-decoration: underline;
+  text-decoration: none;
 }
 
 .footer-list li{
