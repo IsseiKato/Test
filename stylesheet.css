@@ -11,13 +11,13 @@ li {
 a{
   color: #FFF;
   font-weight:300;
-  text-decoration: underline;
+  text-decoration: none;
 }
 
 a:link, a:visited{
   color: #FFF;
   font-weight:300;
-  text-decoration: underline;
+  text-decoration: none;
 }
   
 a:hover, a:active{
