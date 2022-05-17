@@ -14,19 +14,23 @@ a{
 }
 
 a:link{
+  color: #FFF;
   text-decoration: none;
 }
 
 a:visited{
+  color: #FFF;
   text-decoration: none;
 }
   
 a:hover{
+  color: #FFFFCC;
   font-weight:bold;
   text-decoration: underline;
 }
 
 a:active{
+  color: #FFFFCC;
   font-weight:bold;
   text-decoration: underline;
 }
