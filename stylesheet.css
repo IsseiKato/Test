@@ -8,6 +8,10 @@ li {
   padding: 5px;
 }
 
+a{
+  color: #000000;
+}
+
 .footer-list li{
   width: 600px ;
   margin-left: auto;
