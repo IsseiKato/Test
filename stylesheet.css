@@ -8,19 +8,19 @@ li {
   padding: 5px;
 }
 
-.header-list a{
+.top-link{
   color: #FFF;
   font-weight: 300;
   text-decoration: none;
 }
 
-.header-list a:link, .header-list a:visited{
+.top-link:link, .top-link:visited{
   color: #FFF;
   font-weight: 300;
   text-decoration: none;
 }
   
-.header-list a:hover, .header-list a:active{
+.top-link:hover, .top-link:active{
   color: #FFFFCC;
   font-weight: 500;
   text-decoration: none;
