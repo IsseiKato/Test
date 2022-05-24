@@ -14,13 +14,25 @@ li {
   text-decoration: none;
 }
 
-.top-link:link, .top-link:visited{
+.top-link:link{
+  color: #FFF;
+  font-weight: 300;
+  text-decoration: none;
+}
+
+.top-link:visited{
   color: #FFF;
   font-weight: 300;
   text-decoration: none;
 }
   
-.top-link:hover, .top-link:active{
+.top-link:hover{
+  color: #FFFFCC;
+  font-weight: 500;
+  text-decoration: none;
+}
+
+.top-link:active{
   color: #FFFFCC;
   font-weight: 500;
   text-decoration: none;
