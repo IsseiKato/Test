@@ -60,6 +60,10 @@ li {
   height: 20px;
 }
 
+.main{
+  margin: 35px;
+}
+  
 .twitter-timeline{
   padding: 200px;
 }
