@@ -2,11 +2,38 @@ li {
   list-style: none;
 }
 
+.header{
+  padding: 20px;
+  margin: 20px;
+  background-color: #d52e2e;
+  text-align: center;
+  color: #000;
+}
+
+.header-list{
+  height: 20px;
+  text-align: center; /* ヘッダーリスト全体を中央寄せ */
+}
+
+
 .header-list li{
   float: left;
   color: #000000;
   padding: 5px;
+  text-align: center; /* ヘッダーリスト全体を中央寄せ */
 }
+
+.header-list ul {
+  display: inline-block; /* リスト全体を中央に配置 */
+  padding: 0;
+  margin: 0;
+}
+
+.header-list ul li {
+  display: inline; /* 各リスト項目を横並びに表示 */
+  margin-right: 20px; /* 各項目の間隔を調整 */
+}
+
 
 .top-link{
   color: #FFF;
@@ -46,18 +73,6 @@ li {
 
 .inline li{
   text-align: center;
-}
-
-.header{
-  padding: 20px;
-  margin: 20px;
-  background-color: #C0C0C0;
-  text-align: center;
-  color: #000;
-}
-
-.header-list{
-  height: 20px;
 }
 
 .main{
