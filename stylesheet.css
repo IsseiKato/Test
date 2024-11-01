@@ -67,6 +67,9 @@ li {
 
 .achievement-list{
   text-align: center;
+  margin-bottom: 1em;
+  padding-left: 1.5em;
+  text-indent: -1.5em;
 }
 
 
