@@ -11,7 +11,7 @@ li {
 }
 
 .header-list{
-  height: 20px;
+  height: 30px;
   text-align: center; /* ヘッダーリスト全体を中央寄せ */
 }
 
@@ -64,6 +64,11 @@ li {
   font-weight: 900;
   text-decoration: none;
 }
+
+.achievement-list{
+  text-align: center;
+}
+
 
 .footer-list li{
   width: 600px ;
